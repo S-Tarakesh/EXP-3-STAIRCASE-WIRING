@@ -39,10 +39,22 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
+Direct connection: 
+CIRCUIT DIAGRAM: 
+<img width="732" height="448" alt="image" src="https://github.com/user-attachments/assets/e9232d1f-9a4c-47a9-b958-65a741a6e0f0" />
+
+
+<img width="715" height="458" alt="image" src="https://github.com/user-attachments/assets/0032e889-0d31-447c-b6f3-4440ebabfd3d" />
+
+
+
 Tabulation:1
 	
-Cross connection: CIRCUIT DIAGRAM:
+Cross connection: 
+
+CIRCUIT DIAGRAM:
+<img width="1222" height="700" alt="STAIRCASE WIRING ON" src="https://github.com/user-attachments/assets/aa56ffd6-912e-437a-b40b-ab2d77689991" />
+<img width="1177" height="752" alt="STAIRCASE WIRING OFF" src="https://github.com/user-attachments/assets/2d6f6481-e81a-44b3-96ac-6a788802342d" />
 
 Tabulation:2
 
