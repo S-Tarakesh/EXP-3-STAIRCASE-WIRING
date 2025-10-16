@@ -51,7 +51,13 @@ CIRCUIT DIAGRAM:
 
 
 Tabulation:1
-	
+
+![WhatsApp Image 2025-10-16 at 10 30 17_18543354](https://github.com/user-attachments/assets/e09fd378-438a-43e7-b3df-5b2b53487db1)
+
+
+
+
+
 Cross connection: 
 
 CIRCUIT DIAGRAM:
@@ -59,6 +65,9 @@ CIRCUIT DIAGRAM:
 <img width="1177" height="752" alt="STAIRCASE WIRING OFF" src="https://github.com/user-attachments/assets/2d6f6481-e81a-44b3-96ac-6a788802342d" />
 
 Tabulation:2
+
+![WhatsApp Image 2025-10-16 at 10 33 09_f92c9a52](https://github.com/user-attachments/assets/197c3abf-c566-4149-93aa-a91fd636b5da)
+
 
 RESULT:
 Thus the staircase wiring is connected and tested.
